@@ -16,13 +16,13 @@ Real-time helmet detection using a webcam with OpenCV and YOLOv3.
 git clone https://github.com/yourusername/helmet-detection.git
 cd helmet-detection
 
-# Install dependencies
+Install dependencies
 pip install opencv-python numpy
 
-# Download YOLOv3 helmet model files and place them in the project directory
-# (e.g., from Kaggle or other trusted sources)
+Download YOLOv3 helmet model files and place them in the project directory
+(e.g., from Kaggle or other trusted sources)
 
-# Run the detection script
+Run the detection script
 python helmet_detection.py
 Press q to exit the webcam window.
 
