@@ -12,8 +12,6 @@ Real-time helmet detection using a webcam with OpenCV and YOLOv3.
   - `yolov3-helmet.weights`
 
 ## 🚀 Quick Start
-
-```bash
 # Clone the repository
 git clone https://github.com/yourusername/helmet-detection.git
 cd helmet-detection
