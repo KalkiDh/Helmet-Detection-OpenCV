@@ -28,8 +28,8 @@ Press q to exit the webcam window.
 
 📸 Sample Output
 
-<img src="screenshot/No Helmet.png" width="400"> 
-<img src="screenshot/Helmet worn.png" width="400"> 
+<img src="screenshots/No Helmet.png" width="400"> 
+<img src="screenshots/Helmet worn.png" width="400"> 
 
 📌 Notes
 Make sure your webcam is connected and working.
